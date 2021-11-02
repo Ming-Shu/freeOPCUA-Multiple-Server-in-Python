@@ -7,7 +7,7 @@ python version :3.6.9
 Installation
 With pip (note: the package was ealier called freeopcua)
 
-    pip install opcua
+    pip3 install opcua
 
     apt install python-opcua        # Library
     apt install python-opcua-tools  # Command-line tools
